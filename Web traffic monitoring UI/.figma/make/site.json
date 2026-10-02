@@ -1,0 +1,10 @@
+{
+  "description": "Monitor road conditions in real-time through camera feeds with a modern interface, providing essential data and interactive features for users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
